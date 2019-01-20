@@ -1,0 +1,5 @@
+train=/home/sahaj/data/train.txt
+valid=/home/sahaj/data/test.txt
+names=/home/sahaj/data/pot_hole.names
+backup=/home/sahaj/data/pot_hole_weights/
+gpus  = 0
